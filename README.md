@@ -28,7 +28,7 @@ Today, I design and develop interfaces that blend creativity, functionality, and
 If you're into frontend development, digital experiences, or tech innovations, let’s chat! 💬
 
 🌐 Portfolio: [Coming soon....]
-💼 LinkedIn: www.linkedin.com/in/sara-martínez-sánchez-034798124
+💼 LinkedIn: www.linkedin.com/in/sara-martinez-sanchez
 
 💡 How would I describe myself?
 ✨ Creative, 🔍 Analytical, 🎯 Solution-Oriented
