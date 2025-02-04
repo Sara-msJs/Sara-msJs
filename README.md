@@ -1,9 +1,11 @@
 ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/a42f1c38-4628-4de0-8513-b0f4e1736492)
 
 
-👋 Hello everyone!
+👋 Hi everyone!
 
-I’m Sara Martínez, a passionate frontend developer who loves crafting dynamic, engaging, and optimized web experiences. 🚀✨ Turning ideas into interactive interfaces is my thing!
+I'm Sara Martínez, a passionate frontend developer 💻✨. I've always had a deep curiosity for technology and web design 🎨🌐, which led me to make a 360° turn in my career 🚀 and fully dedicate myself to programming.
+
+Today, I design and develop interfaces that blend creativity, functionality, and technology 🖌️⚙️, achieving something that truly fulfills me both personally and professionally 💖. For me, coding isn't just a job—it's about transforming ideas 💡 into unique digital experiences 🌟. There's no greater satisfaction than seeing a line of code come to life and make a difference. ⚡👩‍💻
 
 💻 About Me
 🔹 Tech Stack: React ⚛️ | TypeScript 📜 | JavaScript ⚡ | HTML5 🎨 | CSS3 🎭
